@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35230" started-at="2018-07-21T12:42:18Z" finished-at="2018-07-21T12:42:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35230" started-at="2018-07-21T12:42:18Z" finished-at="2018-07-21T12:42:54Z">
+      <class name="SeleniumTestng.BasicTestWithReportingDashboard">
+        <test-method status="PASS" signature="beforesetup()[pri:0, instance:SeleniumTestng.BasicTestWithReportingDashboard@3e6fa38a]" name="beforesetup" is-config="true" duration-ms="4415" started-at="2018-07-21T14:42:18Z" finished-at="2018-07-21T14:42:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesetup -->
+        <test-method status="PASS" signature="basicWeb()[pri:0, instance:SeleniumTestng.BasicTestWithReportingDashboard@3e6fa38a]" name="basicWeb" duration-ms="27050" started-at="2018-07-21T14:42:23Z" finished-at="2018-07-21T14:42:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicWeb -->
+        <test-method status="PASS" signature="after()[pri:0, instance:SeleniumTestng.BasicTestWithReportingDashboard@3e6fa38a]" name="after" is-config="true" duration-ms="3736" started-at="2018-07-21T14:42:50Z" finished-at="2018-07-21T14:42:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- SeleniumTestng.BasicTestWithReportingDashboard -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

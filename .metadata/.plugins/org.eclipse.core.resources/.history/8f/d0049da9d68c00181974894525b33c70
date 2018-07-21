@@ -1,0 +1,42 @@
+package SeleniumTestng;
+
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+public class BasicBrowserTestng {
+
+	public String baseUrl1 = ("https://www.expedia.com");
+	String driverPath = "C:\\Users\\rassools\\Desktop\\ChromeD\\chromedriver.exe";
+	public WebDriver driver;
+
+	@BeforeClass
+	public void beforesetup() {
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\rassools\\Desktop\\ChromeD\\chromedriver.exe");
+		;
+		driver = new ChromeDriver();
+		baseUrl1 = "https://www.expedia.com";
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		driver.manage().window().maximize();
+
+	}
+
+	@Test
+	public void basicWeb() throws InterruptedException {
+		driver.get(baseUrl1);
+		WebElement clickFlightstab = driver.findElement(By.id("tab-flight-tab-hp"));
+		clickFlightstab.click();
+		
+	}
+
+	@AfterClass
+	public void after() {
+
+	}
+}

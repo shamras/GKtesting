@@ -1,0 +1,9 @@
+package SeleniumTestng;
+
+import org.testng.annotations.Test;
+
+public class sitenavigation {
+  @Test
+  public void f() {
+  }
+}

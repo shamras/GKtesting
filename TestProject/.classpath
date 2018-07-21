@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/selenium-server-standalone-3.0.1.jar" sourcepath="C:/Selenium Space/SELENIUM/selenium-contain srcs folder/client-combined-3.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/ChromeD/chromedriver_win32.zip"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/IEDri/IEDriverServer_x64_3.8.0 (1).zip"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/TestNG/jcommander-1.69.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/TestNG/testng-6.11.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/TestNG/testng-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/extended jar files/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/extended jar files/extentreports-2.41.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/extended jar files/freemarker-2.3.28.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/extended jar files/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/extended jar files/sqlite-jdbc-3.23.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/poi-3.17/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/poi-3.17/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/poi-3.17/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/poi-3.17/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/poi-3.17/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/poi-3.17/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/poi-3.17/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/poi-3.17/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Space/SELENIUM/poi-3.17/lib/junit-4.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
