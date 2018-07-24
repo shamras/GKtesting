@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31593" started-at="2018-07-23T14:08:39Z" finished-at="2018-07-23T14:09:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31593" started-at="2018-07-23T14:08:39Z" finished-at="2018-07-23T14:09:11Z">
+      <class name="com.expedia.Flights.TestBasicfunctions">
+        <test-method status="PASS" signature="beforesetup()[pri:0, instance:com.expedia.Flights.TestBasicfunctions@6f7fd0e6]" name="beforesetup" is-config="true" duration-ms="5168" started-at="2018-07-23T16:08:39Z" finished-at="2018-07-23T16:08:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesetup -->
+        <test-method status="PASS" signature="basicWeb()[pri:0, instance:com.expedia.Flights.TestBasicfunctions@6f7fd0e6]" name="basicWeb" duration-ms="23053" started-at="2018-07-23T16:08:45Z" finished-at="2018-07-23T16:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicWeb -->
+        <test-method status="PASS" signature="after()[pri:0, instance:com.expedia.Flights.TestBasicfunctions@6f7fd0e6]" name="after" is-config="true" duration-ms="3354" started-at="2018-07-23T16:09:08Z" finished-at="2018-07-23T16:09:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- com.expedia.Flights.TestBasicfunctions -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

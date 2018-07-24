@@ -74,7 +74,7 @@ public class BasicTestWithReportingDashboard {
 		WebElement clickSubmit = driver.findElement(By.xpath("/html//form[@id='gcw-flights-form-hp-flight']//button[@type='submit']"));
 		clickSubmit.click();
 		test.log(LogStatus.INFO, "submit your search");
-		test.log(LogStatus.PASS, "Verified login successful");
+		test.log(LogStatus.PASS, "Verified basic browser test success");
 	}
 
 	@AfterClass
